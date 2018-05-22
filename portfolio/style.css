@@ -87,6 +87,7 @@ background: #1c1c28;
 .con2 .content1 > p{
   font-size: 2em;
   color: #f1c40f;
+  text-align: center;
 
 }
 .container .con{
@@ -110,6 +111,7 @@ background: #1c1c28;
 .cell > p{
   color: white;
   font-size: 2em;
+  text-align: center;
 }
 .con1 .title >h1{
   font-size: 3.5em;
